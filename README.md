@@ -50,7 +50,7 @@
 
 ## Requisits tècnics
 
-- **Python 3.x**
+- **Python 3.13.3**
 - **Tkinter**
 - **psycopg2** (connector Python per PostgreSQL)
 - **PostgreSQL**
