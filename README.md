@@ -1,5 +1,5 @@
 # Dataclysm
-![Dataclysm Logo](https://github.com/joysantalola/Dataclysm/raw/main/logo.png)
+<img src="https://github.com/joysantalola/Dataclysm/raw/main/logo.png" alt="Dataclysm Logo" width="200"/>
 
 # Dataclysm
 
@@ -9,7 +9,7 @@
 
 - **Backend amb SQL (PostgreSQL):** Totes les dades es gestionen mitjançant una base de dades PostgreSQL, garantint fiabilitat i escalabilitat.
 - **Interfície gràfica amb Python (Tkinter):** L'aplicació ofereix una interfície d'usuari intuïtiva i senzilla gràcies a la llibreria Tkinter de Python.
-- **Infraestructura segura:** La base de dades s'allotja en una màquina virtual Debian, amb sistema de còpies de seguretat automatitzat i una segona màquina virtual en mode actiu-passiu per garantir alta disponibilitat i recuperació davant incidències.
+- **Infraestructura segura:** La base de dades s'allotja en una màquina virtual Debian, amb sistema de còpies de seguretat automatitzat i una segona màquina virtual en mode actiu-passiu per garantir una alta disponibilitat.
 - **Gestió d'hotels:** El sistema permet gestionar hotels, habitacions, reserves, clients, treballadors i serveis associats.
 - **Còpies de seguretat i restauració:** El sistema realitza còpies de seguretat periòdiques de la base de dades i permet restaurar-les fàcilment.
 
