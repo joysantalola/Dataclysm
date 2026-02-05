@@ -1,5 +1,5 @@
 # Dataclysm
-<img src="https://github.com/joysantalola/Dataclysm/raw/main/logo.png" alt="Dataclysm Logo" width="200"/>
+<img src="https://github.com/joysantalola/Dataclysm/blob/main/logo.jpeg" alt="Dataclysm Logo" width="200"/>
 
 # Dataclysm
 
